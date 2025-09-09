@@ -38,7 +38,7 @@ public class Park {
     public Park(String parkName, String location) {
         this.parkName = parkName;
         this.location = location;
-        this.attractions = new Attraction[0]; // Инициализируем пустым массивом
+        this.attractions = new Attraction[0];
     }
     public void addAttractions(Attraction[] newAttractions) {
         this.attractions = newAttractions;
