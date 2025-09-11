@@ -11,7 +11,7 @@ public class Main {
         attractions[2] = disneyland.new Attraction("Водные горки", "11:00-19:00", 400, 10);
         attractions[3] = disneyland.new Attraction("Детская карусель", "10:00-18:00", 200, 3);
         attractions[4] = disneyland.new Attraction("Комната страха", "14:00-23:00", 350, 16);
-
+attractions[1].getAttractionName();
         disneyland.addAttractions(attractions);
 
         disneyland.displayParkInfo();
