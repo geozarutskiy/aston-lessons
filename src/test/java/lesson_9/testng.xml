@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name="MTS Payment Functionality Tests">
+    <classes>
+        <class name="com.mts.tests.MtsOnlinePaymentTest"/>
+    </classes>
+</test>
