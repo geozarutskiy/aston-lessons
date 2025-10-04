@@ -1,31 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6176f931-92ef-4113-8f14-0bf3bb2f632f" name="Changes" comment="создание мастер ветки">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/main9.java" afterDir="false" />
+    <list default="true" id="6176f931-92ef-4113-8f14-0bf3bb2f632f" name="Changes" comment="девятое задание по автоматизации">
+      <change afterPath="$PROJECT_DIR$/allure-results/05237734-d224-4c7e-8197-22dc3bd9c509-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0647cab6-6a9d-42b5-8d5e-a312ab129273-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0df93bb5-404a-4564-b46d-fe6fb8a1b11a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/11a987f3-de59-4174-8a56-02ec8180f572-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14414c46-a7c3-4b8c-9efe-1ed27a99ccaf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/19a53592-9331-4794-81a2-3dab35086555-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b9bdb65-1205-4a2c-81fb-260ba1ff1498-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2fbf233e-dc11-4677-8e57-191ce03d8788-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3295e090-b172-47c4-a182-ff89ca0a1bb8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38296416-c6ad-4c09-9e68-0d3ae89f2243-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e36b207-8c1b-4475-bb09-37675bd86ce5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e6c20bd-02ad-4b7b-b52d-8d8a877567e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e83e801-42fb-4d0d-9eb3-3dd21f134362-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40577fee-5d12-47f9-bcc8-77e1c26d9224-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4365b2c7-b89e-4ff5-aeba-f5974f196367-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/477d6cdb-d4fb-4c82-ba52-97d790d4df4d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a701f00-8a4e-48b2-9f98-cffd02ca0815-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c34c090-cf51-4b47-b919-c4b3087fea9f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4eb7f12c-6237-4e0b-add2-10a00bca777f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a7d10a5-9489-448e-964c-9a1efd07f8c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a83c180-fbdb-4e8b-a4c9-617662ba06d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c840610-9b16-4bf8-8b7a-9fbdebb25584-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d09898b-08ba-459a-b222-1ae71aea6686-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d5027c0-b09c-4218-b74a-b786d2f06f44-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/647235b3-22e2-4510-8614-a41b9e9044b5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6654d1b9-c7c7-4423-81d7-0af63b392f8b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/69938d90-ff61-45e5-aef9-1f411a46312a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c81581a-a522-439b-a840-481f799a01fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7035ffb5-3f36-4bf2-8df2-bd2bf7398dad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7280c666-72e0-45ef-8d4f-1aa848a4c723-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/794d2901-097f-4c58-b04b-474cddfe0199-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80c2bb18-a476-4f1d-9f8e-6936c7fd18b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8921561b-ed38-44be-9356-d8c74fc686e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8cbb852c-88ef-4368-a6b9-8b7bf5d33a12-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91adeb77-9cca-4d6f-a28c-2f689396ce16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96b53c68-bbf0-44a8-a556-4669935565f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ceed4eb-e01b-4826-a08b-501cf66d4dec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f70ff7f-a976-4d1d-a1fb-98b31cb8bcbb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa16ed4b-67ce-4698-b352-9d84fa2a5734-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abe7ace7-f3d7-4f4a-b489-80e49adcff55-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abf84715-b706-4835-9673-9f0f3d4325b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1deee57-5c61-431a-a29f-c6b6385215fe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b2bd3b8b-4c44-4eba-a2aa-28187690bb74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbc088bf-34c3-4701-aebb-8cabf91bc923-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bdacd74b-81f9-4446-aa80-8ac676bdcaaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c6706634-6f11-468e-9bc4-0cf560659adf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c8560925-9372-466f-a4eb-2112905a4b72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c992f9ab-28e6-4cd3-b42b-1e58edcb17eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca04ac1e-430b-41be-ba24-c287b6491fb3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce6ab634-a1c8-442c-99d3-b9a609674160-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d2e326bc-d554-4d55-81dc-53ccbed9bc23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d869acce-5bea-4517-b6c3-ce2701ec8ebc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc720ae5-037e-4024-a350-7f4b6d1e56ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0d8dbad-416f-43ed-8f82-6e9698de3036-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb3a6591-9927-488d-9dd8-eb9c993ddba1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee5925db-c7e0-45e2-bc5b-53c3de714693-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f366b3d8-d461-455c-bfb2-01504fb5ac81-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7dccbc9-dbc4-4b65-800c-78aaa1b6ed20-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa877885-a15b-4f80-9caa-3640d4441c63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fd604770-6c91-4847-84e5-b2a2f230ce6a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mts/tests/MtsOnlinePaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson_11/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson_11/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson_11/MtsOnlinePaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson_11/OnlinePaymentPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aston/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aston/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/main9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,13 +106,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_11" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -69,81 +143,146 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "onboarding.tips.debug.path": "/Users/user/IdeaProjects/aqa/src/main/java/com/aston/Main.java"
+    "last_opened_file_path": "/Users/user/IdeaProjects/aqa/src/test/java/Lesson_11",
+    "onboarding.tips.debug.path": "/Users/user/IdeaProjects/aqa/src/main/java/com/aston/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson_6_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Lesson_11" />
+      <recent name="$PROJECT_DIR$/src/test/java/lesson_9" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/test/java/les" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/lesson_9" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson_8" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson_11" />
+      <recent name="Lesson_7_testng" />
       <recent name="lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main12">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+  <component name="RunManager" selected="TestNG.MtsOnlinePaymentTest (3)">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="aqa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_1.main10" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="aqa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_1.main11" />
-      <module name="aqa" />
+    <configuration name="MtsOnlinePaymentTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mts-autotests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_1.*" />
+          <option name="PATTERN" value="lesson_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson_9" />
+      <option name="MAIN_CLASS_NAME" value="lesson_9.MtsOnlinePaymentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_1.main12" />
-      <module name="aqa" />
+    <configuration name="MtsOnlinePaymentTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mts-autotests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_1.*" />
+          <option name="PATTERN" value="Lesson_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Lesson_10" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_10.MtsOnlinePaymentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_1.main9" />
-      <module name="aqa" />
+    <configuration name="MtsOnlinePaymentTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mts-autotests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_1.*" />
+          <option name="PATTERN" value="Lesson_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Lesson_11" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_11.MtsOnlinePaymentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MtsOnlinePaymentTest.testCompletePaymentFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mts-autotests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_9" />
+      <option name="MAIN_CLASS_NAME" value="lesson_9.MtsOnlinePaymentTest" />
+      <option name="METHOD_NAME" value="testCompletePaymentFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MtsOnlinePaymentTest.testOnlinePaymentBlockTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mts-autotests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_9" />
+      <option name="MAIN_CLASS_NAME" value="lesson_9.MtsOnlinePaymentTest" />
+      <option name="METHOD_NAME" value="testOnlinePaymentBlockTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main12" />
-        <item itemvalue="Application.main11" />
-        <item itemvalue="Application.main10" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.main9" />
+        <item itemvalue="TestNG.MtsOnlinePaymentTest (3)" />
+        <item itemvalue="TestNG.MtsOnlinePaymentTest (2)" />
+        <item itemvalue="TestNG.MtsOnlinePaymentTest (1)" />
+        <item itemvalue="TestNG.MtsOnlinePaymentTest.testOnlinePaymentBlockTitle" />
+        <item itemvalue="TestNG.MtsOnlinePaymentTest.testCompletePaymentFlow" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +303,79 @@
       <option name="project" value="LOCAL" />
       <updated>1757004921189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="пятое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758312851970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758312851970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="шестое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758313068961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758313068961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="шестое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758315813919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758315813919</updated>
+    </task>
+    <task id="LOCAL-00005" summary="шестое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758316183319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758316183319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="седьмое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758742936248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758742936248</updated>
+    </task>
+    <task id="LOCAL-00007" summary="седьмое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758742962093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758742962093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="восьмое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1758920678277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758920678277</updated>
+    </task>
+    <task id="LOCAL-00009" summary="десятое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1759587928088</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759587928088</updated>
+    </task>
+    <task id="LOCAL-00010" summary="девятое задание по автоматизации">
+      <option name="closed" value="true" />
+      <created>1759587998372</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759587998372</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +404,42 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="создание мастер ветки" />
-    <option name="LAST_COMMIT_MESSAGE" value="создание мастер ветки" />
+    <MESSAGE value="пятое задание по автоматизации" />
+    <MESSAGE value="шестое задание по автоматизации" />
+    <MESSAGE value="седьмое задание по автоматизации" />
+    <MESSAGE value="восьмое задание по автоматизации" />
+    <MESSAGE value="десятое задание по автоматизации" />
+    <MESSAGE value="девятое задание по автоматизации" />
+    <option name="LAST_COMMIT_MESSAGE" value="девятое задание по автоматизации" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aston/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lesson_8/PostmanEchoRequestMethodsTest.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lesson_8/PostmanEchoRequestMethodsTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aqa$PostmanEchoRequestMethodsTest_testGetRequestWithVariousParams.ic" NAME="PostmanEchoRequestMethodsTest.testGetRequestWithVariousParams Coverage Results" MODIFIED="1758920369428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lesson_8.*</FILTER>
+    </SUITE>
   </component>
 </project>
