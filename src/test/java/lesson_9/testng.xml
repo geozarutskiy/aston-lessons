@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name="MTS Payment Functionality Tests">
+    <classes>
+        <class name="Lesson_9.MtsOnlinePaymentTest"/>
+        <methods>
+            <include name="testOnlinePaymentBlockElements"/>
+            <include name="testPaymentTabsPlaceholders"/>
+            <include name="testMobilePaymentFlow"/>
+            <include name="testPaymentModalDetails"/>
+            <include name="testCompletePaymentScenario"/>
+        </methods>
+    </classes>
+</test>
